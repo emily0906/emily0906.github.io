@@ -1,4 +1,4 @@
-  **EMILY NGUYEN**
+# **EMILY NGUYEN**
 ## *Bachelor Science - Computer Science Honors*
 ###  **Contact:**
 Phone: (204) - 391 -6585
