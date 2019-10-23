@@ -47,12 +47,17 @@ January 2018 - May 2018
 * Tutored children in Math and other high school science subjects to help them successful in understand difficult materials.
 
 ### **Technical Skills**
-**Programing Language** | **Tools and Technologies**
-------------------------|---------------------------
-Java, Processing | Eclipse
-C, C++, C# | Visual studio
-Python, Ruby | Unity
-HTML, CSS, JavaScript  | Linux/ Unix machine
+**Programing Language**
+* Java, Processing
+* C, C++, C#
+* Python, Ruby
+* HTML, CSS, JavaScript
+
+**Tools and Technologies**
+* Virtual studio
+* Eclipse
+* Linux/ Unix machine
+* Unity
 
 ### **Social Skills**
 * Communication
