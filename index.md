@@ -40,7 +40,7 @@ January 2018 - May 2018
 * Provided information to customer and respond to their questions/complaints guaranteeing most of customer satisfaction in a friendly and approachable environment.
 * Identified problem, found best solution to solve problem by giving accurate information to customer and other colleagues.
 
-**Baby sit**
+**Baby sitting**
 
 *June 2015 - January 2018*
 * Provided safe, protective and fun environment while taking care of children.
@@ -54,7 +54,7 @@ January 2018 - May 2018
 * HTML, CSS, JavaScript
 
 **Tools and Technologies**
-* Virtual studio
+* Visual studio
 * Eclipse
 * Linux/ Unix machine
 * Unity
