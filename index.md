@@ -11,6 +11,7 @@ Email: nlktran.9696@gmail.com
 
 Github: github.com/emily0906/
 
+------------------------------------------------
 
 ### **Profile:**
 A computer science student with organizational ability; skilled at working with other in team environment; quick learner with flexible approach to work.
@@ -19,6 +20,9 @@ A computer science student with organizational ability; skilled at working with 
 **University of Manitoba**
 
 *Expected December 2021*
+
+--------------------------------------------
+
 ### **Volunteer**
 **Science Rendezvous**
 
@@ -31,6 +35,8 @@ A computer science student with organizational ability; skilled at working with 
 January 2018 - May 2018
 * Communicated effectively with children in many ways to build a healthy and fun environment for kids.
 * Developed creative thinking in problem solving by designing puzzle and thinking game for school age children to motivate children in learning and critical thinking.
+
+----------------------------------
 
 ### **Experience**
 **SuperStore Associator**
@@ -46,6 +52,8 @@ January 2018 - May 2018
 * Provided safe, protective and fun environment while taking care of children.
 * Tutored children in Math and other high school science subjects to help them successful in understand difficult materials.
 
+-----------------------------------
+
 ### **Technical Skills**
 **Programing Language**
 * Java, Processing
@@ -58,6 +66,8 @@ January 2018 - May 2018
 * Eclipse
 * Linux/ Unix machine
 * Unity
+
+----------------------------------
 
 ### **Social Skills**
 * Communication
