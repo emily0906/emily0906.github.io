@@ -49,10 +49,10 @@ January 2018 - May 2018
 ### **Technical Skills**
 **Programing Language** | **Tools and Technologies**
 ------------------------|---------------------------
-Java, Processing | Visual studio
-C, C++, C# | Eclipse
-Python, Ruby | Linux/ Unix machine
-HTML, CSS, JavaScript  | Unity
+Java, Processing | Eclipse
+C, C++, C# | Visual studio
+Python, Ruby | Unity
+HTML, CSS, JavaScript  | Linux/ Unix machine
 
 ### **Social Skills**
 * Communication
