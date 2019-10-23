@@ -1,6 +1,6 @@
   **EMILY NGUYEN**
-## <h2>*Bachelor Science - Computer Science Honors*
-### <h3> **Contact:**
+## *Bachelor Science - Computer Science Honors*
+###  **Contact:**
 Phone: (204) - 391 -6585
 
 Address: 5 - 671 McMillan Avenue, Winnipeg, Canada
@@ -10,14 +10,14 @@ Email: nlktran.9696@gmail.com
 Github: github.com/emily0906/
 
 
-### <h3>**Profile:**
+### **Profile:**
 A computer science student with organizational ability; skilled at working with other in team environment; quick learner with flexible approach to work.
-### <h3>**Education:**
+### **Education:**
 **BSc Computer Science (Honors)**
 **University of Manitoba**
 
 *Expected December 2021*
-### <h3>**Volunteer**
+### **Volunteer**
 **Science Rendezvous**
 
 *May 3rd - May 12nd (2018)*
@@ -30,7 +30,7 @@ January 2018 - May 2018
 * Communicated effectively with children in many ways to build a healthy and fun environment for kids.
 * Developed creative thinking in problem solving by designing puzzle and thinking game for school age children to motivate children in learning and critical thinking.
 
-### <h3> **Experience**
+### **Experience**
 **SuperStore Associator**
 
 *Oct 2018 - present*
@@ -40,11 +40,11 @@ January 2018 - May 2018
 
 **Baby sit**
 
-*June 2015 - January 2018**
+*June 2015 - January 2018*
 * Provided safe, protective and fun environment while taking care of children.
 * Tutored children in Math and other high school science subjects to help them successful in understand difficult materials.
 
-### <h3> **Technical Skills**
+### **Technical Skills**
 **Programing Language**
 * Java, Processing
 * C, C++, C#
@@ -57,7 +57,7 @@ January 2018 - May 2018
 * Linux/ Unix machine
 * Unity
 
-### <h3> **Social Skills**
+### **Social Skills**
 * Communication
 * Creative problem solving
 * Interpersonal
