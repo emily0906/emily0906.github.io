@@ -79,5 +79,5 @@ January 2018 - May 2018
 
 ### Project
 **Unity simple puzzle game***
-* Learned and applied algorithm to contributed the game
-* 
+* Learned and implied computational annalysis of puzzle to solving the game problem
+* Learned and applied C#
