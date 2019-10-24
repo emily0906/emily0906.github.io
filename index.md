@@ -1,7 +1,7 @@
 # **EMILY NGUYEN**
 -----------------------------------------------------
 ## *Bachelor Science - Computer Science Honors*
------------------------------------------------------
+-------------------------------------------------
 ###  **Contact:**
 Phone: (204) - 391 -6585
 
@@ -75,6 +75,7 @@ January 2018 - May 2018
 * Interpersonal
 * organizational
 * Flexible, adaptable and keen to take initiative
+
 -----------------------------------
 
 ### Project
