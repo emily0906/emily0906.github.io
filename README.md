@@ -38,7 +38,7 @@ So now you have your GitHub repository, the next steps in the instruction will h
  
 3. *Change title on Jekyll*
  * Go back to your repository
- * Go to ```_congig.yml``` add ```title: your name/ some tittles you want``
+ * Go to ```_congig.yml``` add ```title: your name/ some tittles you want```
  * Then commit change to finish
 4. *See the resume on GitHub page*
  * Open your browser and go on ```https://username.github.io```
