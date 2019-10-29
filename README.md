@@ -6,7 +6,7 @@ User who have no or some experience in Markdown and GitHub page.
 The instruction will cover steps by steps to host a document or resume on GitHub Pages.
 ### Prerequisites
 Before starting, you should familiarise yourself with [Markdown](https://www.markdownguide.org) and [GitHub](https://github.com).
-### Install and setup guide
+### Install Mardown and setup GitHub pages guideline
 This is the very first guideline to help you install and setup your own GitHub page.
 1. *Markdown*
  * Install text editor [Atom](https://atom.io).
@@ -22,15 +22,16 @@ This is the very first guideline to help you install and setup your own GitHub p
 
  <img width="778" alt="image" src="https://user-images.githubusercontent.com/42950390/67732926-e3149e00-f9ca-11e9-8f58-b4b5ace991a4.png">
 
-### Usage
+### Upload resume on GitHub pages and formatting Jekyll theme guideline
 So now you have your GitHub repository, the next steps in the instruction will help you understand how to upload your resume on GitHub pages and change your resume theme by using Jekyll theme setting on GitHub.
 1. *Upload resume on GitHub page*
  * Go to [Github](https://github.com) main page and look to the left side of the page and go to repository that you just created earlier.
-2. *Change theme of resume*
  * Click on upload file button on the top of the page, as show<img width="976" alt="image" src="https://user-images.githubusercontent.com/42950390/67771810-ffdebf00-fa26-11e9-873e-bd76b188e827.png">
- * Click on choose file, and upload your index.md file to GitHub.
- * Click on setting on the top page, as show <img width="827" alt="image" src="https://user-images.githubusercontent.com/42950390/67772301-d8d4bd00-fa27-11e9-8c9c-74bcaee3e7b2.png">
- * Scroll down to the very bottom of the page, you will see the button change theme.
+ * Click on ```<choose file>```, and upload your index.md file to GitHub.
+ 
+ 2. Choose Jekyll theme for resume
+ * Click on ```<setting>``` on the top page, as show <img width="827" alt="image" src="https://user-images.githubusercontent.com/42950390/67772301-d8d4bd00-fa27-11e9-8c9c-74bcaee3e7b2.png">
+ * Scroll down to the very bottom of the page, you will see the button ```<Change Theme>```.
  <img width="760" alt="image" src="https://user-images.githubusercontent.com/42950390/67772455-16394a80-fa28-11e9-8af1-53e1773843f0.png">
  
  * Choose the theme that you like from the categories
@@ -38,8 +39,8 @@ So now you have your GitHub repository, the next steps in the instruction will h
  
 3. *Change title on Jekyll*
  * Go back to your repository
- * Go to ```_congig.yml``` add ```title: your name/ some tittles you want```
- * Then commit change to finish
+ * Go to ```_congig.yml``` add ```title: your name/ some titles you want```
+ * Then click on ```<commit change>``` to finish
 4. *See the resume on GitHub page*
  * Open your browser and go on ```https://username.github.io```
 
@@ -53,11 +54,12 @@ Also there are 2 members in the group, who helped contribute in this project
 ## **Acknowledgement**
 * GitHub Pages tutorial
 * Markdown guideline
+*  [jekyll-theme-cayman author](https://github.com/pages-themes/cayman)
 * etc
 
 ## FAQs
-1. Why I cannot open my GitHub page on the browser?
+1. **Why I cannot open my GitHub page on the browser?**
  * *There are 2 cases that might happen. First case, your GitHub page might take time to active, so you probably want to wait and go back to your page again. Second case, your resume/document file name is not **index.md**.*
-2. Why do I have to publishing my GitHub page?
+2. **Why do I have to publishing my GitHub page?**
  * *You don't have to publishing your GitHub pages. However, to enable change Jekyll theme on GitHub page and allow GitHub page show up on browser, you need your page publishing.*
 
