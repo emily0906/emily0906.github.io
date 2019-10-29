@@ -49,7 +49,7 @@ Also there are 2 members in the group, who helped contribute in this project
 * Markdown guideline
 * etc
 
-## FAQ
+## FAQs
 1. Why I cannot open my GitHub page on the browser?
  * *There are 2 cases that might happen. First case, your GitHub page might take time to active, so you probably want to wait and go back to your page again. Second case, your resume/document file name is not **index.md**.*
 2. Why do I have to publishing my GitHub page?
