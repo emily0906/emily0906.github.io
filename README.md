@@ -1,5 +1,7 @@
 # **Hosting resume on GitHub Pages**
 This project designed to help people who doesn't have experience in writing document in Markdown be able to write a resume in Markdown and host it in GitHub pages.
+## **Audience**
+User who have no or some experience in Markdown and GitHub page.
 ## **Getting start**
 The instruction will cover steps by steps to host a document or resume on GitHub Pages.
 ### Prerequisites
