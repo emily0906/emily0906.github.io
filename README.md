@@ -27,7 +27,7 @@ So now you have your GitHub repository, the next steps in the instruction will h
 1. **Upload resume on GitHub page**
  * Go to [Github](https://github.com) main page and look to the left side of the page and go to repository that you just created earlier.
  * Click on upload file button on the top of the page, as show<img width="976" alt="image" src="https://user-images.githubusercontent.com/42950390/67771810-ffdebf00-fa26-11e9-873e-bd76b188e827.png">
- * Click on ```<choose file>```, and upload your index.md file to GitHub.
+ * Click on ```<choose file>```, and upload your _**index.md**_ file to GitHub.
  
  2. **Choose Jekyll theme for resume**
  * Click on ```<setting>``` on the top page, as show <img width="827" alt="image" src="https://user-images.githubusercontent.com/42950390/67772301-d8d4bd00-fa27-11e9-8c9c-74bcaee3e7b2.png">
@@ -54,7 +54,7 @@ Also there are 2 members in the group, who helped contribute in this project
 ## **Acknowledgement**
 * GitHub Pages tutorial
 * Markdown guideline
-*  [jekyll-theme-cayman author](https://github.com/pages-themes/cayman)
+*  jekyll-theme-cayman [author](https://github.com/pages-themes/cayman)
 * etc
 
 ## FAQs
