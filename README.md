@@ -30,6 +30,7 @@ So now you have your GitHub repository, the next steps in the instruction will h
  * Click on setting on the top page, as show <img width="827" alt="image" src="https://user-images.githubusercontent.com/42950390/67772301-d8d4bd00-fa27-11e9-8c9c-74bcaee3e7b2.png">
  * Scroll down to the very bottom of the page, you will see the button change theme.
  <img width="760" alt="image" src="https://user-images.githubusercontent.com/42950390/67772455-16394a80-fa28-11e9-8af1-53e1773843f0.png">
+ 
  * Choose the theme that you like from the categories
  <img width="1113" alt="image" src="https://user-images.githubusercontent.com/42950390/67772995-01a98200-fa29-11e9-932a-937bd820e654.png">
 3. *See the resume on GitHub page*
