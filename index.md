@@ -55,6 +55,7 @@ January 2018 - May 2018
 -----------------------------------
 
 ### **Technical Skills** 
+
 **Programing Language** | **Tools and Technologies**
 ------------------------|--------------------------
 Java, Processing | Eclipse
