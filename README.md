@@ -43,7 +43,7 @@ So now you have your GitHub repository, the next steps in the instruction will h
  * Then click on ```<commit change>``` to finish
 4. **See the resume on GitHub page**
  * Open your browser and go on ```https://<username>.github.io```
-## **Resource**
+## **Resources**
 Visit:
 * [Atom](https://atom.io)
 * [Markdown cheetsheet](https://www.markdownguide.org/cheat-sheet/)
