@@ -76,6 +76,6 @@ HTML, CSS, JavaScript| Linux/ Unix machine
 -----------------------------------
 
 ### Project
-**Unity simple puzzle game***
+**Unity simple puzzle game**
 * Learned and implied computational annalysis of puzzle to solving the game problem
 * Learned and applied C#
