@@ -41,8 +41,8 @@ So now you have your GitHub repository, the next steps in the instruction will h
 * **Emily Nguyen** - initial work
 
 Also there are 2 members in the group, who helped contribute in this project
-* **Skyla Dudek** - peer pressure editor
-* **Anna Stacey** - peer pressure editor
+* **Skyla Dudek** - peer editor
+* **Anna Stacey** - peer  editor
 
 ## **Acknowledgement**
 * GitHub Pages tutorial
