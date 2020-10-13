@@ -80,5 +80,5 @@ Markdown| Atom
 * Learned and applied C#
 
 **Tourist web design**
-* Learn and implied user design centre to design a good website
-* Learn and applied HTML, CSS, JQuery, Javacript
+* Learn and implied user design centre to design a good website.
+* Learn and applied HTML, CSS, JQuery, Javacript.
