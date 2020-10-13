@@ -5,8 +5,6 @@
 ###  **Contact:**
 Phone: (204) - 391 -6585
 
-Address: 5 - 671 McMillan Avenue, Winnipeg, Canada
-
 Email: nlktran.9696@gmail.com
 
 Github: github.com/emily0906/
