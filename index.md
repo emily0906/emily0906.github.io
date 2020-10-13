@@ -82,3 +82,7 @@ Markdown| Atom
 **Tourist web design**
 * Learn and implied user design centre to design a good website.
 * Learn and applied HTML, CSS, JQuery, Javacript.
+
+** Python treasure hunting game **
+* Learn and OpenCV on Python
+* Learn and implied pattern matching to solve the game problem
