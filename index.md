@@ -60,6 +60,7 @@ Java, Processing | Eclipse
  C, C++, C#| Unity
 Python, Ruby|Visual studio
 HTML, CSS, JavaScript| Linux/ Unix machine
+Markdown| Atom
 
 
 ----------------------------------
@@ -77,3 +78,7 @@ HTML, CSS, JavaScript| Linux/ Unix machine
 **Unity simple puzzle game**
 * Learned and implied computational annalysis of puzzle to solving the game problem
 * Learned and applied C#
+
+**Tourist web design**
+* Learn and implied user design centre to design a good website
+* Learn and applied HTML, CSS, JQuery, Javacript
