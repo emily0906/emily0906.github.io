@@ -8,8 +8,8 @@ This README is intended for Computer Science student, who have no or some experi
 
 ## Quick Links:
 1. [Basic](#Basic)
-  * [Benefit of static site](#Benefit-of-static-site)
-  * [Prerequisites](#Prerequisites)
+* [Benefit of static site](#Benefit-of-static-site)
+* [Prerequisites](#Prerequisites)
 2.[Install Markdown and setup GitHub](#Install-Markdown-and-setup-GitHub)
 3. [Uploading your file on GitHub](Uploading-your-file-on-GitHub)
 4. [Customize your resume](##Customize-your-resume)
