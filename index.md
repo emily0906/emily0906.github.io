@@ -17,7 +17,7 @@ A computer science student with organizational ability; skilled at working with 
 **BSc Computer Science (Honors)**
 **University of Manitoba**
 
-*Expected December 2021*
+*Expected May 2022*
 
 --------------------------------------------
 
@@ -40,6 +40,7 @@ January 2018 - May 2018
 **SuperStore Associator**
 
 *Oct 2018 - present*
+* Power truck lift equiments certificant 
 * Trained and supervised new labour to ensure they understand proper rules and regulations in job.
 * Provided information to customer and respond to their questions/complaints guaranteeing most of customer satisfaction in a friendly and approachable environment.
 * Identified problem, found best solution to solve problem by giving accurate information to customer and other colleagues.
@@ -58,9 +59,9 @@ January 2018 - May 2018
 ------------------------|--------------------------
 Java, Processing | Eclipse
  C, C++, C#| Unity
-Python, Ruby|Visual studio
+Python, Ruby|Visual studio, Xcode
 HTML, CSS, JavaScript| Linux/ Unix machine
-Markdown| Atom
+Markdown| Atom, NotePad
 
 
 ----------------------------------
