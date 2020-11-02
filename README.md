@@ -128,4 +128,4 @@ Visit:
     * Second case, your Github page might need extra time to active
     * You don't have Github pro account and set your repository as private
 * **Why do I have to use Jekyll theme on Github setting ?**
-  * You don't have to use Jekyll that Github offer, you can build your own Jekyll them if you have knowledge about HTML and CSS. However, Jekyll theme setting in Github is the easiest way to change theme for your Github without code.
+  * You don't have to use Jekyll that Github offer, you can build your own Jekyll theme if you have knowledge about HTML and CSS. However, Jekyll theme setting in Github is the easiest way to change theme for your Github Pages without code.
