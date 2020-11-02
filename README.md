@@ -82,6 +82,7 @@ Now you have your resume file uploaded on Github, the next step in the instructi
   1. **Choose Jekyll theme for resume**
     * Go to [Github](https://github.com) and click to the repository that you uploaded your resume to ```<user name>.github.io```
     * click on ```<setting>``` on the top page, as show <img width="827" alt="image" src="https://user-images.githubusercontent.com/42950390/67772301-d8d4bd00-fa27-11e9-8c9c-74bcaee3e7b2.png">
+    
     * Scroll down to the very bottom of the page, click on the button ```<change theme>```<img width="747" alt="image" src="https://user-images.githubusercontent.com/42950390/97904158-b7c33e00-1d05-11eb-89a9-9e4a2d4d5176.png">
     * Choose the theme that you like from the categories<img width="1113" alt="image" src="https://user-images.githubusercontent.com/42950390/67772995-01a98200-fa29-11e9-932a-937bd820e654.png">
   2. **Change title for Jekyll file**
