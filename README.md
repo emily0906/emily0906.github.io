@@ -1,5 +1,5 @@
 # Hosting Resume On GitHub Page
-Ever tired of uploading your resume PDF file for each and every job application ?
+Have you ever tired of uploading your resume PDF file for each and every job application ?
 
 This README will help you solve your problem by giving you a full instruction how to create your own resume-website on GitHub Pages using GitHub Desktop, for free, without having to code. Moreover, while showing you simple steps of hosting a resume on GitHub, we will discuss about some fundamental concepts to create a great documentation base on Etter's popular book *Modern Technical Writing*. In summary, you will learn
 1. Create a beautiful resume-website
@@ -33,7 +33,7 @@ Base on Etter's book *Modern Technical Writing*, the keys for good documentation
 
 Etter mentioned in his book, to achieve the top 3 methods, people need a long learning curve, such as research about their topics and audience, testing their contents, etc. Writers can not assume anything while writing, thus, every contents in the documentation need be base on some evidence which make the contents more persuade and trustful.
 
-However, the last key to create a good documentation require working by time, wrtiters need to update their content everytime they made a change in it. It's hard to update contents through PDF file since it download on hardware, writers alway have to upload new file every time they want to change something in their documentation. Therefore, host a website for your documentation come in as a resolution. Static website allow writers to host contents on a website, which give them a power to modify inaccurate information in their contents and sync it to exist documentation, which keep their contents in sync without go through all the unecessary troubles. By hosting a resume online, we can avoid the hassles of upload multiple PDF file when we need to make a change in our resume, such as adding more information, changing in contact, etc.
+However, the last key to create a good documentation require working by time, wrtiters need to update their contents everytime they made a change in it. It's hard to update contents through PDF file since it download on hardware, writers alway have to upload new file every time they want to change something in their documentation. Therefore, host a website for your documentation come in as a resolution. Static website allow writers to host contents on a website, which give them a power to modify inaccurate information in their contents and sync it to exist documentation, which keep their contents in sync without go through all the unecessary troubles. By hosting a resume online, we can avoid the hassles of upload multiple PDF file when we need to make a change in our resume, such as adding more information, changing in contact, etc.
 ### Prerequisites
 Before starting, you need to have a general ideas about [Markdown](https://www.markdownguide.org) and [GitHub](https://github.com).
 
@@ -49,8 +49,8 @@ This is a very first guideline to help you install Markdown, setup your own Gith
 * **Create a reposity on Github**
   * Login to [Github](https://github.com)
   * Look on the left right corner of the page, when you see repositories, click on ```<new>``` button as show <img width="67" alt="image" src="https://user-images.githubusercontent.com/42950390/67733058-3981dc80-f9cb-11e9-8a25-7e89d769637f.png">
-  * Set your repository public and initilize it README. In Etter's book, he encourage people to publish their documentation, so that people can visit your documentation and help you contribute it better. Similar to repository, by publishing your repository, you encourage people to visit your page, and help you contribute your contents.
-  * *Note: In case you don't want to public your repository, you can assign to github pro account and set your reposity private*
+  * Set your repository public and initilize it with a README file. In Etter's book, he encourage people to publish their documentation, so that people can visit your documentation and help you contribute it better. Similar to repository, by publishing your repository, you encourage people to visit your page, and help you contribute your contents.
+  * *Note: In case you don't want to public your repository, you can assign to github pro account and set your reposity private and still allow you to see your Github Page*
   * Click on ```<Create repository>``` to create your own Github repository
   * Name the repository as ```<user name>.github.io```
 
@@ -88,8 +88,8 @@ Now you have your resume file uploaded on Github, the next step in the instructi
     * Choose the theme that you like from the categories<img width="1113" alt="image" src="https://user-images.githubusercontent.com/42950390/67772995-01a98200-fa29-11e9-932a-937bd820e654.png">
 
   * **Change title for Jekyll file**
-    * Go back to your repository
-    * Go to ```_congig.yml```, edit the file by add ```title: <your name/ some titles you want>```
+    * Go back to your repository main page
+    * Go to ```_congig.yml```, edit the file by add ```title: <some titles you want>```
     * Then click on ```<commit change>``` to finish
 
 
@@ -98,7 +98,7 @@ You now have your resume host online on Github page. In order to see your site, 
 
 
 ## Some tips for README
-Now you know how to host a resume online. However, your repository is missing README, which is an important documentation to show your professional in hosting a static website. Therefore, there are tips from Etter that he give out in *Modern Technical Writing*  might help you complete the work:
+Now you know how to host a resume online. However, your repository is missing README information, which is an important documentation to show your professional in hosting a static website. Therefore, there are tips from Etter that he give out in *Modern Technical Writing*  might help you complete the work:
 * have a quick summary about your project
 * have a instruction how to build your documentation
 * have a instruction how other can contribute in your documentation
