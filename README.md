@@ -8,8 +8,6 @@ This README is intended for Computer Science student, who have no or some experi
 
 ## Quick Links:
 1. [Basic](#Basic)
-  * [Benefit of static site](#Benefit-of-static-site)
-  * [Prerequisites](#Prerequisites)
 2.[Install Markdown and setup GitHub](#Install-Markdown-and-setup-GitHub)
 3. [Uploading your file on GitHub](Uploading-your-file-on-GitHub)
 4. [Customize your resume](##Customize-your-resume)
@@ -64,6 +62,7 @@ This is a very first guideline to help you install Markdown, setup your own Gith
     * Choose the repository that you will host your resume on ```<user name>.github.io```
     * You are sucessful clone your repository from github desktop
   2. **Upload your resume on Github Page**
+    * 
     * Go to finder <img width="34" alt="image" src="https://user-images.githubusercontent.com/42950390/97902794-af6a0380-1d03-11eb-82c5-29d30a6d0f2a.png">
     * Copy the your resume file which name as *index.md*
     * Click on documents on the left side
