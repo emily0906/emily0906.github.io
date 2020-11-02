@@ -84,6 +84,10 @@ Markdown| Atom, NotePad
 * Learn and implied user design centre to design a good website.
 * Learn and applied HTML, CSS, JQuery, Javacript.
 
+**Online food ordering system**
+* Applied HTML, CSS, JQuery and Javascript
+* Implied visual design in CSS
+
 **Python treasure hunting game**
 * Learn and OpenCV on Python
 * Learn and implied pattern matching to solve the game problem
