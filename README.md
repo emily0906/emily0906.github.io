@@ -1,5 +1,7 @@
 # Hosting Resume On GitHub Page
-Ever tired of uploading your resume PDF file for each and every job application ?  This README will help you solve your problem by giving you a full instruction how to create your own resume-website on GitHub Pages using GitHub Desktop, for free, without having to code. Moreover, while showing you simple steps of hosting a resume on GitHub, we will discuss about some fundamental concepts to create a great documentation base on Etter's popular book *Modern Technical Writing*. In summary, you will learn
+Ever tired of uploading your resume PDF file for each and every job application ?
+
+This README will help you solve your problem by giving you a full instruction how to create your own resume-website on GitHub Pages using GitHub Desktop, for free, without having to code. Moreover, while showing you simple steps of hosting a resume on GitHub, we will discuss about some fundamental concepts to create a great documentation base on Etter's popular book *Modern Technical Writing*. In summary, you will learn
 1. Create a beautiful resume-website
 2. Learn about fundemental methods for a good documentation
 
