@@ -48,7 +48,7 @@ These are the guidelines to help you install Markdown, setup your own Github pag
   * *Note: Most universities in Canada support students for Github account. Therefore, if you use your student email to sign up for Github, you will have a free access to Github.*
 * **Create a repository on Github**
   * Login to [Github](https://github.com)
-  * Look on the left right corner of the page, when you see repositories, click on ```<new>``` button as show <img width="67" alt="image" src="https://user-images.githubusercontent.com/42950390/67733058-3981dc80-f9cb-11e9-8a25-7e89d769637f.png">
+  * Look on the left corner of the page, when you see repositories, click on ```<new>``` button as show <img width="67" alt="image" src="https://user-images.githubusercontent.com/42950390/67733058-3981dc80-f9cb-11e9-8a25-7e89d769637f.png">
   * Set your repository public and initilize it README. In Etter's book, he encourages people to publish their documentation, so that people can visit your documentation and help you by contributing to it. Similarly by publishing your repository, you encourage people to visit your page, and help you by contributing to your contents.
   * *Note: In case you don't want to publish your repository, you can sign up for github pro account and set your repository to private*
   * Click on ```<Create repository>``` to create your own Github repository
