@@ -58,6 +58,8 @@ These are the guidelines to help you install Markdown, setup your own Github pag
 
 ## Uploading your file on GitHub
   Now you have your Github repository, the next step in the instruction will help you understand how to clone your repository using [Github Desktop](https://desktop.github.com) and upload your resume on Github page
+  > Github Desktop is a beginner-friendly distributed version control, which allow you to work offline and sync your contents to the same file in github.
+
   * **Clone repository on Github Desktop**
     * Download [Github Desktop](https://desktop.github.com)
     * Login to [Github Desktop](https://desktop.github.com) by your github account
@@ -72,12 +74,12 @@ These are the guidelines to help you install Markdown, setup your own Github pag
     * Click on documents on the left side
     * Click on Github folder, go to the folder that have ```<user name>.github.io```
     * Paste the file
+    * ![](https://media.giphy.com/media/IGbDPFVpIaKlhqXQfz/giphy.gif)
     * Go back to Github Desktop
     * Type in ```Summary``` and ```Description``` in the bottom left hand side
     * Click ```Commit to Master``` button on the left hand side
     * You successfully uploaded the resume on github page
-    * ![](https://media.giphy.com/media/IGbDPFVpIaKlhqXQfz/giphy.gif)
-
+    * ![](https://media.giphy.com/media/v650dNlW0O8QdfgsdY/giphy.gif)
 
 ## Customize your resume
 In Etter's book *Modern Technical Writing* mentions that polishing your page with theme is the most important thing to host a static site because the theme reflect how professional you are in technology. Therefore, the next step in the instruction will help you to create a theme for your resume using Jekyll theme setting in Github.
