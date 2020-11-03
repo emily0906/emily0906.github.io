@@ -110,6 +110,7 @@ Visit:
 * [Markdown cheetsheet](https://www.markdownguide.org/cheat-sheet/)
 * [GitHub](https://github.com)
 * [Jekyll theme matter](https://jekyllrb.com)
+* [Modern Technical Writing](https://www.amazon.com/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
 
 ## Authors
 * **Emily Nguyen** - initial work
