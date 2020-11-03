@@ -53,7 +53,7 @@ These are the guidelines to help you install Markdown, setup your own Github pag
   >*Note: Your repository need to be published in order to active your Github page. In case you don't want to publish your repository, you can sign up for github pro account and set your repository to private*
   * Click on ```<Create repository>``` to create your own Github repository
   * Name the repository as ```<user name>.github.io```
-  ![](https://media.giphy.com/media/wDa0zcmzr6ewY4wN1k/giphy.gif)
+  * ![](https://media.giphy.com/media/wDa0zcmzr6ewY4wN1k/giphy.gif)
 
 
 ## Uploading your file on GitHub
