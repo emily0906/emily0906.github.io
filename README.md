@@ -77,8 +77,7 @@ These are the guidelines to help you install Markdown, setup your own Github pag
     * Type in ```Summary``` and ```Description``` in the bottom left hand side
     * Click ```Commit to Master``` button on the left hand side
     * You successfully uploaded the resume on github page
-    
-    ![](https://media.giphy.com/media/IGbDPFVpIaKlhqXQfz/giphy.gif)
+    * ![](https://media.giphy.com/media/IGbDPFVpIaKlhqXQfz/giphy.gif)
 
 
 ## Customize your resume
@@ -88,7 +87,7 @@ In Etter's book *Modern Technical Writing* mentions that polishing your page wit
     * click on ```<setting>``` on the top page, as show <img width="827" alt="image" src="https://user-images.githubusercontent.com/42950390/67772301-d8d4bd00-fa27-11e9-8c9c-74bcaee3e7b2.png">
     * Scroll down to the very bottom of the page, click on the button ```<change theme>```<img width="747" alt="image" src="https://user-images.githubusercontent.com/42950390/97904158-b7c33e00-1d05-11eb-89a9-9e4a2d4d5176.png">
     * Choose the theme that you like from the categories
-![](https://media.giphy.com/media/LdbF119SMpMxFKSK6S/giphy.gif)
+    * ![](https://media.giphy.com/media/LdbF119SMpMxFKSK6S/giphy.gif)
 
   * **Change title for Jekyll file**
     * Go back to your repository
