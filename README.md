@@ -77,6 +77,7 @@ These are the guidelines to help you install Markdown, setup your own Github pag
     * Type in ```Summary``` and ```Description``` in the bottom left hand side
     * Click ```Commit to Master``` button on the left hand side
     * You successfully uploaded the resume on github page
+    
     ![](https://media.giphy.com/media/IGbDPFVpIaKlhqXQfz/giphy.gif)
 
 
