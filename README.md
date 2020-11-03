@@ -80,7 +80,7 @@ These are the guidelines to help you install Markdown, setup your own Github pag
 
 
 ## Customize your resume
-In Etter's book *Modern Technical Writing* mentions that polishing your page with theme is the most important thing to host a static site. Therefore, the next step in the instruction will help you to create a theme for your resume using Jekyll theme setting in Github.
+In Etter's book *Modern Technical Writing* mentions that polishing your page with theme is the most important thing to host a static site because the theme reflect how professional you are in technology. Therefore, the next step in the instruction will help you to create a theme for your resume using Jekyll theme setting in Github.
   * **Choose Jekyll theme for resume**
     * Go to [Github](https://github.com) and click to the repository that you uploaded your resume to ```<user name>.github.io```
     * click on ```<setting>``` on the top page, as show <img width="827" alt="image" src="https://user-images.githubusercontent.com/42950390/67772301-d8d4bd00-fa27-11e9-8c9c-74bcaee3e7b2.png">
