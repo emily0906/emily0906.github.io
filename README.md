@@ -65,7 +65,7 @@ These are the guidelines to help you install Markdown, setup your own Github pag
     * Click on ```Clone the repository from Internet``` on the left side to clone the respository from your github account <img width="425" alt="image" src="https://user-images.githubusercontent.com/42950390/97900685-a297e080-1d00-11eb-96c5-dea55a975018.png">
     * Choose the repository that you will host your resume on ```<user name>.github.io```
     * You are sucessful clone your repository from github desktop
-  ![](https://media.giphy.com/media/VvzfKb9nT301SgwtXg/giphy.gif)
+    * ![](https://media.giphy.com/media/VvzfKb9nT301SgwtXg/giphy.gif)
 
 * **Upload your resume on Github Page**
     * Go to finder <img width="34" alt="image" src="https://user-images.githubusercontent.com/42950390/97902794-af6a0380-1d03-11eb-82c5-29d30a6d0f2a.png">
