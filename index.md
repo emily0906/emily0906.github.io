@@ -10,9 +10,7 @@ Email: nlktran.9696@gmail.com
 Github: github.com/emily0906/
 
 ------------------------------------------------
-
-### **Profile:**
-A computer science student with organizational ability; skilled at working with other in team environment; quick learner with flexible approach to work.
+ 
 ### **Education:**
 **BSc Computer Science (Honors)**
 **University of Manitoba**
@@ -40,9 +38,9 @@ January 2018 - May 2018
 **SuperStore Associator**
 
 *Oct 2018 - present*
-* Power truck lift equiments certificant 
-* Trained and supervised new employees to ensure they understand proper rules and regulations in job.
-* Provided information to customers and respond to their questions/complaints guaranteeing most of customers satisfaction in a friendly and approachable environment.
+* Power truck lift equiments certificant
+* Trained and supervised new labour to ensure they understand proper rules and regulations in job.
+* Provided information to customer and respond to their questions/complaints guaranteeing most of customer satisfaction in a friendly and approachable environment.
 * Identified problem, found best solution to solve problem by giving accurate information to customer and other colleagues.
 
 **Baby sitting**
@@ -53,7 +51,7 @@ January 2018 - May 2018
 
 -----------------------------------
 
-### **Technical Skills** 
+### **Technical Skills**
 
 **Programing Language** | **Tools and Technologies**
 ------------------------|--------------------------
