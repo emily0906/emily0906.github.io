@@ -53,7 +53,6 @@ These are the guidelines to help you install Markdown, setup your own Github pag
   >*Note: Your repository need to be published in order to active your Github page. In case you don't want to publish your repository, you can sign up for github pro account and set your repository to private*
   * Click on ```<Create repository>``` to create your own Github repository
   * Name the repository as ```<user name>.github.io```
-
   ![](https://media.giphy.com/media/wDa0zcmzr6ewY4wN1k/giphy.gif)
 
 
@@ -65,7 +64,7 @@ These are the guidelines to help you install Markdown, setup your own Github pag
     * Click on ```Clone the repository from Internet``` on the left side to clone the respository from your github account <img width="425" alt="image" src="https://user-images.githubusercontent.com/42950390/97900685-a297e080-1d00-11eb-96c5-dea55a975018.png">
     * Choose the repository that you will host your resume on ```<user name>.github.io```
     * You are sucessful clone your repository from github desktop
-  ![](https://media.giphy.com/media/VvzfKb9nT301SgwtXg/giphy.gif)
+    * ![](https://media.giphy.com/media/VvzfKb9nT301SgwtXg/giphy.gif)
 
 * **Upload your resume on Github Page**
     * Go to finder <img width="34" alt="image" src="https://user-images.githubusercontent.com/42950390/97902794-af6a0380-1d03-11eb-82c5-29d30a6d0f2a.png">
@@ -77,7 +76,7 @@ These are the guidelines to help you install Markdown, setup your own Github pag
     * Type in ```Summary``` and ```Description``` in the bottom left hand side
     * Click ```Commit to Master``` button on the left hand side
     * You successfully uploaded the resume on github page
-![](https://media.giphy.com/media/IGbDPFVpIaKlhqXQfz/giphy.gif)
+    * ![](https://media.giphy.com/media/IGbDPFVpIaKlhqXQfz/giphy.gif)
 
 
 ## Customize your resume
@@ -87,7 +86,7 @@ In Etter's book *Modern Technical Writing* mentions that polishing your page wit
     * click on ```<setting>``` on the top page, as show <img width="827" alt="image" src="https://user-images.githubusercontent.com/42950390/67772301-d8d4bd00-fa27-11e9-8c9c-74bcaee3e7b2.png">
     * Scroll down to the very bottom of the page, click on the button ```<change theme>```<img width="747" alt="image" src="https://user-images.githubusercontent.com/42950390/97904158-b7c33e00-1d05-11eb-89a9-9e4a2d4d5176.png">
     * Choose the theme that you like from the categories
-![](https://media.giphy.com/media/LdbF119SMpMxFKSK6S/giphy.gif)
+    * ![](https://media.giphy.com/media/LdbF119SMpMxFKSK6S/giphy.gif)
 
   * **Change title for Jekyll file**
     * Go back to your repository
