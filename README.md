@@ -121,6 +121,7 @@ Visit:
 * [**Emily Nguyen**](https://github.com/emily0906) - initial work
 * [**Charina Duenas**](https://github.com/pandorasjuicebox) - peer editor
 * [**Rajinder Singh**](https://github.com/rajindersingh751) - peer editor
+* **Anjum Mohammed** peer editor
 
 ## Acknowledgement
 * GitHub Pages tutorial
