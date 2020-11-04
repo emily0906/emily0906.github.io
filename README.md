@@ -118,9 +118,9 @@ Visit:
 * [Modern Technical Writing](https://www.amazon.com/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
 
 ## Authors
-* **Emily Nguyen** - initial work
-* **Charina Duenas** - peer editor
-* **Rajinder Singh** - peer editor
+* [**Emily Nguyen**](https://github.com/emily0906) - initial work
+* [**Charina Duenas**](https://github.com/pandorasjuicebox) - peer editor
+* [**Rajinder Singh**](https://github.com/rajindersingh751) - peer editor
 
 ## Acknowledgement
 * GitHub Pages tutorial
