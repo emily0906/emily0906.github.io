@@ -89,6 +89,7 @@ Markdown| Atom, NotePad
 **Python treasure hunting game**
 * Learn and OpenCV on Python
 * Learn and implied pattern matching to solve the game problem
+
 -----------------------------------
 ### Referene
 * Raina *colleague*: (204)806-3797
