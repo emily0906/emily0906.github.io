@@ -1,6 +1,6 @@
-# **EMILY NGUYEN**
+# **TRAN NGUYEN** (*EMILY*)
 -----------------------------------------------------
-## *Bachelor Science - Computer Science Honors*
+## *Bachelor Science - Computer Science Minor*
 -------------------------------------------------
 ###  **Contact:**
 Phone: (204) - 391 -6585
@@ -39,7 +39,7 @@ January 2018 - May 2018
 
 *Oct 2018 - present*
 * Power truck lift equiments certificant
-* Trained and supervised new labour to ensure they understand proper rules and regulations in job.
+* Trained and supervised new colleague to ensure they understand proper rules and regulations in job.
 * Provided information to customer and respond to their questions/complaints guaranteeing most of customer satisfaction in a friendly and approachable environment.
 * Identified problem, found best solution to solve problem by giving accurate information to customer and other colleagues.
 
@@ -89,3 +89,8 @@ Markdown| Atom, NotePad
 **Python treasure hunting game**
 * Learn and OpenCV on Python
 * Learn and implied pattern matching to solve the game problem
+-----------------------------------
+### Referene
+* Raina *colleague*: (204)806-3797
+* Humayra *classmate*: (204)292-7709
+
