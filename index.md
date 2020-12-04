@@ -1,6 +1,6 @@
 # **TRAN NGUYEN** (*EMILY*)
 -----------------------------------------------------
-## *Bachelor Science - Computer Science Minor*
+## *Bachelor Science - Computer Science Honors*
 -------------------------------------------------
 ###  **Contact:**
 Phone: (204) - 391 -6585
