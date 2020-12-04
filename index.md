@@ -91,7 +91,7 @@ Markdown| Atom, NotePad
 * Learn and implied pattern matching to solve the game problem
 
 -----------------------------------
-### Referene
-* Raina *colleague*: (204)806-3797
-* Humayra *classmate*: (204)292-7709
+### Reference
+* **Raina** *colleague*: (204)806-3797
+* **Humayra** *classmate*: (204)292-7709
 
