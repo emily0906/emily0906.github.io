@@ -1,6 +1,6 @@
-# **TRAN NGUYEN** (*EMILY*)
+# **LE KHANH TRAN NGUYEN** (*EMILY*)
 -----------------------------------------------------
-## *Bachelor Science - Computer Science Honors*
+## *Bachelor Science - Computer Science Major*
 -------------------------------------------------
 ###  **Contact:**
 Phone: (204) - 391 -6585
@@ -12,25 +12,10 @@ Github: github.com/emily0906/
 ------------------------------------------------
  
 ### **Education:**
-**BSc Computer Science (Honors)**
+**BSc Computer Science (Major)**
 **University of Manitoba**
 
 *Expected May 2022*
-
---------------------------------------------
-
-### **Volunteer**
-**Science Rendezvous**
-
-*May 3rd - May 12nd (2018)*
-* Communicated effectively with other in group to build a strong and healthy environment for working and learning.
-* Provided information for others guaranteeing they have the right information and enjoy all the activities that offered for them.
-
-**Earl Grey Community Club day care**
-
-January 2018 - May 2018
-* Communicated effectively with children in many ways to build a healthy and fun environment for kids.
-* Developed creative thinking in problem solving by designing puzzle and thinking game for school age children to motivate children in learning and critical thinking.
 
 ----------------------------------
 
@@ -48,6 +33,21 @@ January 2018 - May 2018
 *June 2015 - January 2018*
 * Provided safe, protective and fun environment while taking care of children.
 * Tutored children in Math and other high school science subjects to help them successful in understand difficult materials.
+
+--------------------------------------------
+
+### **Volunteer**
+**Science Rendezvous**
+
+*May 3rd - May 12nd (2018)*
+* Communicated effectively with other in group to build a strong and healthy environment for working and learning.
+* Provided information for others guaranteeing they have the right information and enjoy all the activities that offered for them.
+
+**Earl Grey Community Club day care**
+
+January 2018 - May 2018
+* Communicated effectively with children in many ways to build a healthy and fun environment for kids.
+* Developed creative thinking in problem solving by designing puzzle and thinking game for school age children to motivate children in learning and critical thinking.
 
 -----------------------------------
 
@@ -93,5 +93,6 @@ Markdown| Atom, NotePad
 -----------------------------------
 ### Reference
 * **Raina** *colleague*: (204)806-3797
+* **Paul Ensign** *supervsior*: (204) 781-3503
 * **Humayra** *classmate*: (204)292-7709
 
