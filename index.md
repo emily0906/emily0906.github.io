@@ -1,6 +1,8 @@
 # **LE KHANH TRAN NGUYEN** (*EMILY*)
+
 -----------------------------------------------------
 ## *Bachelor Science - Computer Science Major*
+
 -------------------------------------------------
 ###  **Contact:**
 Phone: (204) - 391 -6585
@@ -10,7 +12,7 @@ Email: nlktran.9696@gmail.com
 Github: github.com/emily0906/
 
 ------------------------------------------------
- 
+
 ### **Education:**
 **BSc Computer Science (Major)**
 **University of Manitoba**
@@ -95,4 +97,3 @@ Markdown| Atom, NotePad
 * **Raina** *colleague*: (204)806-3797
 * **Paul Ensign** *supervsior*: (204) 781-3503
 * **Humayra** *classmate*: (204)292-7709
-
