@@ -96,7 +96,7 @@ Markdown| Atom, NotePad
 * Learned and implied computational annalysis of puzzle to solving the game problem
 * Learned and applied C#
 
-**Tourist web design (Sign of Winnipeg) **
+**Tourist web design (Sign of Winnipeg)**
 * Learn and implied user design centre to design a good website.
 * Learn and applied HTML, CSS, JQuery, Javacript.
 
