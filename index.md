@@ -24,7 +24,7 @@ Github: github.com/emily0906/
 ### **Experience**
 **SuperStore Associator**
 
-*Oct 2018 - present*
+*Oct 2020 - present*
 * Power truck lift equiments certificant
 * Trained and supervised new colleague to ensure they understand proper rules and regulations in job.
 * Provided information to customer and respond to their questions/complaints guaranteeing most of customer satisfaction in a friendly and approachable environment.
@@ -76,24 +76,39 @@ Markdown| Atom, NotePad
 -----------------------------------
 
 ### Project
+**Depth data research project**
+* Working under professor Guneyt
+* Learn about data depth
+* Transfer Python code to Ruby code (alpha data)
+* Learn about community graph in graph theory
+
+**Android app (Fruit Basket)**
+* Applied knowledge in children's interested to create the idea about the game
+* Working with graphic and UI
+* Learning and working with SQL
+
+**Android app (Task monitoring)**
+* Applied agile management method
+* Learn about user interaction, and design method
+* Learn how to work with android studio
+
 **Unity simple puzzle game**
 * Learned and implied computational annalysis of puzzle to solving the game problem
 * Learned and applied C#
 
-**Tourist web design**
+**Tourist web design (Sign of Winnipeg) **
 * Learn and implied user design centre to design a good website.
 * Learn and applied HTML, CSS, JQuery, Javacript.
 
-**Online food ordering system**
+**Online food ordering system (Togo food odering)**
 * Applied HTML, CSS, JQuery and Javascript
 * Implied visual design in CSS
 
-**Python treasure hunting game**
+**Python treasure hunting game (Ninja Basket)**
 * Learn and OpenCV on Python
 * Learn and implied pattern matching to solve the game problem
 
 -----------------------------------
 ### Reference
 * **Raina** *colleague*: (204)806-3797
-* **Paul Ensign** *supervsior*: (204) 781-3503
-* **Humayra** *classmate*: (204)292-7709
+* **Humayra** *groupmate*: (204)292-7709
